@@ -1,0 +1,3 @@
+D:/Aca/Assignments/C/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator.dir
+D:/Aca/Assignments/C/MatrixCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Aca/Assignments/C/MatrixCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
